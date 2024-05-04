@@ -1,0 +1,9 @@
+Hi ${fname}, <br/>
+<br/>
+
+plese find your pasword below <br/>
+
+Your Password = ${pwd}
+
+Thanks, <br/>
+Ashok It <br/>
